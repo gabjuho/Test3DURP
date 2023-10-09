@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92225533badef7a44aac4397a84276a3, type: 3}
+  m_Name: StrongFighter
+  m_EditorClassIdentifier: 
+  id: 10
+  leftCardData:
+    damage: 5
+    leftCardName: "\uAC15\uC778\uD55C"
+    offeringCount: 2
+    isActivatedOffering: 0101
+    ability:
+      abilityImage: {fileID: 0}
+    cardImage: {fileID: 0}
+  rightCardData:
+    health: 2
+    rightCardName: "\uD22C\uC0AC"
+    offeringCount: 0
+    isActivatedOffering: 0000
+    ability:
+      abilityImage: {fileID: 0}
+    cardImage: {fileID: 0}
+  offeringCount: 2
+  cardImage: {fileID: 0}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92225533badef7a44aac4397a84276a3, type: 3}
+  m_Name: OfferingCard
+  m_EditorClassIdentifier: 
+  id: 0
+  leftCardData:
+    damage: 0
+    leftCardName: Poor
+    offeringCount: 0
+    isActivatedOffering: 0000
+    abilityType: 0
+    cardImage: {fileID: 0}
+  rightCardData:
+    health: 1
+    rightCardName: Offering
+    offeringCount: 0
+    isActivatedOffering: 0000
+    abilityType: 0
+    cardImage: {fileID: 0}
+  offeringCount: 0
+  cardImage: {fileID: 21300000, guid: 6bcfc5ee78ee8e0428a34bfcc2986dc0, type: 3}
+  isOfferingCard: 1

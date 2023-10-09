@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92225533badef7a44aac4397a84276a3, type: 3}
+  m_Name: TwinSwordAngus
+  m_EditorClassIdentifier: 
+  id: 12
+  leftCardData:
+    damage: 2
+    leftCardName: "\uC30D\uAC80\uC758"
+    offeringCount: 1
+    isActivatedOffering: 0001
+    abilityType: 0
+    cardImage: {fileID: 0}
+  rightCardData:
+    health: 5
+    rightCardName: "\uC575\uAC70\uC2A4"
+    offeringCount: 2
+    isActivatedOffering: 0101
+    abilityType: 4
+    cardImage: {fileID: 0}
+  offeringCount: 3
+  cardImage: {fileID: 0}
